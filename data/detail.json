@@ -1,0 +1,26 @@
+{
+  "status":0,
+  "message":"",
+  "result":[
+  	{
+		"alt":"https://book.douban.com/subject/26849163/" ,
+		"entitle" : "The Puzzle Universe",
+		"author" : ["[英] 伊凡•莫斯科维奇"],
+		"images" : {
+			"large":"https://img3.doubanio.com/lpic/s28948222.jpg",
+			"medium":"https://img3.doubanio.com/mpic/s28948222.jpg",
+			"small":"https://img3.doubanio.com/spic/s28948222.jpg"
+		},
+		"isbn" :"9787535778932",
+		"pages" :"404",
+		"price" :"78.00元",
+		"pubdate" :"2016-8",
+		"publisher" :"湖南科学技术出版社",
+		"title" :"迷人的数学",
+		"subtitle" :"315个烧脑游戏玩通数学史",
+		"summary" :"与历史上的数学天才一起挑战头脑体操",
+		"endPage":0,
+		"takeTimes":0
+	}
+  ]
+}

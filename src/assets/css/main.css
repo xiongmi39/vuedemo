@@ -1,0 +1,74 @@
+body{
+	// background: url('/src/assets/images/shelf2.jpg');
+	background-color: #E1DEDF;
+	overflow-x:hidden;
+	overflow-y:auto
+}
+.iconlink {
+	height: 50px;
+	width: 40px;
+	margin: 0px 20%;
+	font-size: 0.8rem;
+	color: #474822;
+	padding-top: 27px;
+}
+a {
+	text-decoration: none;
+}
+
+.btnlink{
+	margin: auto auto;
+	font-size: 1rem;
+	color: #fff;
+	font-weight: bold;
+	background-color: #E2574C;
+	padding: 5px;
+}
+
+/*.outLeftInRight-transition,
+.fadeOutLeft-transition, 
+.fadeInLeft-transition {
+  transition: transform .3s ease-in-out;
+}
+/* 进入时的状态，从右开始 */
+/*.outLeftInRight-enter-active,
+.fadeInLeft-enter-active,
+.fadeInLeft-leave-active {
+  transform: translateX(100%);
+}*/
+/* 离开时的状态，向左移动 */
+/*.outLeftInRight-leave-active,
+.fadeOutLeft-enter-active,
+.fadeOutLeft-leave-active {
+  transform: translateX(-100%);
+}*/
+
+.index-fade-enter-active {
+  transition: transform .5s ease;
+}
+
+.index-fade-enter{
+  transform: translateX(-100%);
+}
+/*.index-fade-leave-active {
+	 transition: all .5s ease;
+}*/
+.index-fade-leave{
+/*	transform: translateX(100%);*/
+	opacity: 0;
+}
+
+.detail-fade-enter-active {
+  transition: transform .5s ease;
+}
+
+.detail-fade-enter{
+  transform: translateX(100%);
+}
+/*.detail-fade-leave-active {
+ 	transition: transform .5s ease;
+}*/
+.detail-fade-leave{
+/*	transform: translateX(-100%);*/
+opacity: 0;
+}
