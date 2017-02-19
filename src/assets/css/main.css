@@ -24,6 +24,42 @@ a {
 	background-color: #E2574C;
 	padding: 5px;
 }
+.bookshelf{
+	background: url('../images/bookshelf.png') no-repeat;
+	background-size: 70%;
+	background-position: center 2px;
+	border-top: 3px solid #9B9C70;
+}
+.book{
+	background: url('../images/book.png') no-repeat top center;
+	background-size: 70%;
+	background-position: center 2px;
+	border-top: 3px solid #9B9C70;
+}
+.dataicon{
+	background: url('../images/Chart-5.png') no-repeat top left;
+	background-size: 80%;
+	margin: 5px 10px;
+
+}
+	.dircover{
+		position: absolute;
+		height: 100px;
+		width: 70px;
+		background: rgba(0,0,0,0.5) url('../images/uncheck.png') no-repeat center center;
+		background-size: 30px 30px;
+	}
+	.chk{
+		background: rgba(0,0,0,0.5) url('../images/Check.png') no-repeat center center;
+		background-size: 30px 30px;
+	}
+	.searchcamera{
+		margin: 5px 5px;
+		width: 30px;
+		height: 30px;
+		background: url('../images/camera-s.png') no-repeat top center;
+	background-size: 70%;
+	}
 
 /*.outLeftInRight-transition,
 .fadeOutLeft-transition, 

@@ -62,18 +62,8 @@ import nvAdd from './add.vue';
   bottom:-40px;
   left: 25%;
 }
-.bookshelf{
-	background: url('/src/assets/images/bookshelf.png') no-repeat;
-	background-size: 70%;
-	background-position: center 2px;
-	border-top: 3px solid #9B9C70;
-}
-.book{
-	background: url('/src/assets/images/book.png') no-repeat top center;
-	background-size: 70%;
-	background-position: center 2px;
-	border-top: 3px solid #9B9C70;
-}
+
+
 
 /*.active{
 	border-top: 3px solid #E2574C;

@@ -114,13 +114,7 @@
 		background-color: #eee;
 		border: #eee;
 	}
-	.searchcamera{
-		margin: 5px 5px;
-		width: 30px;
-		height: 30px;
-		background: url('/src/assets/images/camera-s.png') no-repeat top center;
-	background-size: 70%;
-	}
+
 	.searchcamera input {
 		opacity: 0;
 		width: 10px;

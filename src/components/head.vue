@@ -31,10 +31,5 @@ import nvDirect from './direct.vue';
 	left: 0;
 	display: flex;
 }
-.dataicon{
-	background: url('/src/assets/images/Chart-5.png') no-repeat top left;
-	background-size: 80%;
-	margin: 5px 10px;
 
-}
 </style>
