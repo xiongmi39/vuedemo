@@ -95,13 +95,7 @@
 	}
 </script>
 <style type="text/css">
-	.addBtn{
-	background: url('/src/assets/images/Camera-1.png') no-repeat top center;
-	background-size: 80%;
-	border: 1px solid #fff;
-	border-radius: 5px;
-	height: 50px;
-	}
+
 	.addBtn input{
 		width: 100%;
 		opacity: 0;
