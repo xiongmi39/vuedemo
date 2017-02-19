@@ -61,7 +61,7 @@ a {
 	background-size: 70%;
 	}
 	.addBtn{
-	background: url('/src/assets/images/Camera-1.png') no-repeat top center;
+	background: url('../images/Camera-1.png') no-repeat top center;
 	background-size: 80%;
 	border: 1px solid #fff;
 	border-radius: 5px;
