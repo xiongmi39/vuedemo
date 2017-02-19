@@ -86,17 +86,7 @@ body{
 		position: relative;
 
 	}
-	.dircover{
-		position: absolute;
-		height: 100px;
-		width: 70px;
-		background: rgba(0,0,0,0.5) url('/src/assets/images/uncheck.png') no-repeat center center;
-		background-size: 30px 30px;
-	}
-	.chk{
-		background: rgba(0,0,0,0.5) url('/src/assets/images/Check.png') no-repeat center center;
-		background-size: 30px 30px;
-	}
+
 	img {
 		border: 1px solid #eee;
 		flex:1;
