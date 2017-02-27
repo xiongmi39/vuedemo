@@ -1,0 +1,15 @@
+CACHE MANIFEST
+
+CACHE:
+
+index.html
+./dist/build.js
+./src/assets/js/quagga.min.js
+./src/assets/css/main.css
+./src/assets/images/bookshelf.png
+./src/assets/images/book.png
+./src/assets/images/Chart-5.png
+./src/assets/images/uncheck.png
+./src/assets/images/Check.png
+./src/assets/images/camera-s.png
+./src/assets/images/Camera-1.png
