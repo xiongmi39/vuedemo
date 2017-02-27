@@ -1,7 +1,9 @@
 <template>
 <div class="bkdetail">
 	<div class="up">
+	<div>
 		<img v-bind:src="this.$store.state.bkdetail.images.medium">
+	</div>
 		<div class="publish">
 <!-- 			<p>{{this.$store.state.bkdetail.title}}-{{this.$store.state.bkdetail.subtitle}}</p> -->
 			<p>书名：{{this.$store.state.bkdetail.title}}</p>
@@ -69,6 +71,7 @@
 	}
 	.about{
 		margin: 10px 10px;
+		margin-bottom: 60px;
 		width: 90%;
 		font-size: 0.8rem;
 		text-align: left;
