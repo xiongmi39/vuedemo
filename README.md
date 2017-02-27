@@ -1,6 +1,12 @@
 # vuedemo
 
-> A Vue.js project
+图书管理应用
+
+家里纸质图书非常多，怎么看都看不完，所以做了这个web app，主要用于手机端。
+对纸质书后面的isbn拍照，即可录入图书信息，保存在本地localstorage。
+调用豆瓣API
+
+方便管理纸质藏书，记录阅读状态，新功能添加中
 
 ## Build Setup
 
