@@ -1,5 +1,7 @@
 # vuedemo
 
+[demo:https://xiongmi39.github.io/vuedemo/](https://xiongmi39.github.io/vuedemo/)
+
 图书管理应用
 
 家里纸质图书非常多，怎么看都看不完，所以做了这个web app，主要用于手机端。
